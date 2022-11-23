@@ -55,7 +55,28 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|171041500|75991000|e0e4f26b-9768-45ce-836e-303c9ffcd23d|65e099ca-21c6-4dbe-96f0-82183b43d6ad",
+        "silk_over_copper|171041500|75991000|edff7200-18c6-4e0c-99f9-a118fc24b63a|65e099ca-21c6-4dbe-96f0-82183b43d6ad",
+        "silk_over_copper|171256500|126121000|7844fa1c-c2e9-46d4-aee9-55128915096f|e07924dc-bf2f-44f5-b06a-afa14511c240",
+        "silk_over_copper|175529595|74443380|4c37a42c-e30e-4fbe-8a58-4d959e1e3766|65e099ca-21c6-4dbe-96f0-82183b43d6ad",
+        "silk_over_copper|175744595|126573380|1173c720-e467-4755-8b29-61c1af00679b|e07924dc-bf2f-44f5-b06a-afa14511c240",
+        "silk_over_copper|181541500|75991000|2efaba24-aee5-4bea-ae84-dbce9fb4b72e|65e099ca-21c6-4dbe-96f0-82183b43d6ad",
+        "silk_over_copper|181756500|126121000|1a6cbd94-89ce-40b4-bf57-ce02cce2f2a0|e07924dc-bf2f-44f5-b06a-afa14511c240",
+        "silk_over_copper|181756500|126121000|73b3efd7-d2be-46cf-b06c-e91017a9877c|e07924dc-bf2f-44f5-b06a-afa14511c240",
+        "silk_over_copper|185761000|135023000|cb2ff936-d01f-4ed3-a5da-0089d3c4dd41|6c8302c3-4aa8-4fd4-b7ec-abececfc84cf",
+        "silk_over_copper|186266000|65616000|1dfbb08e-4502-4041-b288-07dbab29f6fa|343eb033-8ef7-429c-95a6-1f16f5bfe209",
+        "silk_over_copper|186266000|65616000|ed5d521b-24d1-4974-b18e-6b700d9b109f|343eb033-8ef7-429c-95a6-1f16f5bfe209",
+        "silk_over_copper|190119095|135475380|bdc5ca11-10e5-4600-9ef9-bb85404d6bea|6c8302c3-4aa8-4fd4-b7ec-abececfc84cf",
+        "silk_over_copper|190754095|64068380|f6429ab2-213c-4030-a705-9f073170a98c|343eb033-8ef7-429c-95a6-1f16f5bfe209",
+        "silk_over_copper|196001000|135023000|99f2690c-1a6d-4fbb-ba61-f3d41eb4c0b7|6c8302c3-4aa8-4fd4-b7ec-abececfc84cf",
+        "silk_over_copper|196001000|135023000|d35150b0-2eb6-4157-85e4-9498d87dce2c|6c8302c3-4aa8-4fd4-b7ec-abececfc84cf",
+        "silk_over_copper|196766000|65616000|adae0e75-68d2-4a2b-98da-d0b9556bd126|343eb033-8ef7-429c-95a6-1f16f5bfe209",
+        "via_dangling|133350000|146050000|7aac96a5-c1fe-4dc3-81f0-936cc10f057e|00000000-0000-0000-0000-000000000000",
+        "via_dangling|133350000|57150000|054cedb4-fb4c-49fa-ba96-4f3420974730|00000000-0000-0000-0000-000000000000",
+        "via_dangling|196850000|146050000|c4199cbb-e0c9-4c8b-8f3f-7a3a3e3da23c|00000000-0000-0000-0000-000000000000",
+        "via_dangling|196850000|57150000|c5d23eef-8649-47ce-8eda-f7ab6138cab0|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
